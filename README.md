@@ -1,2 +1,4 @@
-This is Git Hub Tutorial to understand how the git and git hub works
-------
+
+Hi i am Jayant Prakash Sharma i am awsome
+=======
+
